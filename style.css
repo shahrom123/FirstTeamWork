@@ -87,3 +87,295 @@
     cursor: pointer;
     color: black;
 }
+
+.shahrom-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shahrom-center{
+    width: 80%;
+     
+}
+.shahrom-puctures1 h2{
+    font-weight: 100;
+    color: #4D4D4D; 
+}
+.shahrom-puctures1 p{
+    font-weight: 100;
+    color: #4D4D4D;
+    margin: 5% 0%;
+}
+.shahrom-puctures{
+    display: flex;
+    gap: 50px 100px;
+}
+.shahrom-puctures h1{
+   opacity: 0.6;
+   font-weight: 100;
+}
+.shahrom-puctures1 img{
+    width: 100%;
+}
+.shahrom-icons ul{
+    display: flex;
+    gap: 15px 15px;
+}
+.shahrom-icons ul li{
+   list-style: none;
+}
+.shahrom-icons ul li i:hover{
+    background-color:lightblue;
+=======
+.my-conteiner{
+
+    width: 100%;
+
+    background-color: rgba(199, 170, 139, 1);
+
+    
+    padding: 40px;
+    display: flex;
+
+    justify-content: center;
+
+    margin: auto;
+
+}
+.my-centr{
+
+    width: 80%;
+
+    margin: auto;
+
+}
+.my-glavni{
+
+    display: flex;
+
+    justify-content: space-between;
+
+
+}
+.my-box{
+
+    border-top: solid 2px rgba(50, 50, 50, 0.13);;
+    width: 20%;
+text-align: center;
+}
+.RESEARCH{
+
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+
+text-align: center;
+
+font-weight: 400;
+
+font-size: 20px;
+
+
+color: #4D4D4D;
+}
+.my-images{
+
+margin-bottom: 50px;
+
+}
+.Lorem{
+
+    text-align: start;
+
+    color: #4D4D4D;
+}
+.my-image2{
+
+    width: 100%;
+    height: 40vh;
+    background-image: url(./images/IMAGE\ \(33\).png);
+background-size: cover;
+}
+.my-text    {
+
+    width: 842px;
+
+    height: 110px;
+
+    display: flex;
+
+text-align: center;
+
+padding-top: 100px;
+}
+.my-text h1{
+
+    text-align: start;
+    font-size: 47px;
+    font-weight: 400;
+    color: #C7AA8B;
+}
+
+.myhr{
+
+    margin-top: 50px;
+
+    width: 5%;
+
+    height: 2px;
+    background: #C7AA8B;
+=======
+.XM-navbar-items{
+    background-color: #323232;
+    width: 100%;
+}
+.XM-center{
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: flex-start;
+}
+.XM-container .XM-center .XM-navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.XM-container .XM-center .XM-navbar .XM-right .XM-face {
+    width: 8.5px ;
+    height: 15px;
+    padding: 22px 26px;
+    border-left: 1px solid #4D4D4D;
+}
+.XM-container .XM-center .XM-navbar .XM-right img:hover {
+    background-color: #C7AA8B;
+    border-radius: 20px;
+    cursor: pointer;
+    color: black;
+
+}
+.XM-container .XM-center .XM-navbar .XM-right .XM-twit {
+    width: 16px ;
+    height: 13px;
+    border-left: 1px solid #4D4D4D;
+    border-right: 1px solid #4D4D4D;
+    padding: 23px 23px 24px 21px;
+}
+.XM-container .XM-center .XM-navbar .XM-right  {
+    display: flex;
+    justify-content: space-between;
+    /* width: 40%; */
+    justify-content: flex-end;
+}
+.XM-container .XM-center .XM-navbar .XM-left{
+    display: flex;
+    /* width: 60%; */
+    
+    justify-content: start;
+    align-items: center;
+}
+.XM-container .XM-center .XM-navbar .XM-left ul li h1{
+    font-weight: 400;
+    color: #EDEDED;
+    padding: 15px 30px 20px 0px;
+    font-size: 24px;
+}
+.XM-container .XM-center .XM-navbar .XM-left ul li img{
+    width: 18px;
+    padding: 18px 8px 20px 8px;
+    height: 22px;
+}
+.XM-container .XM-center .XM-navbar .XM-right .xm-navicons{
+    display: flex;
+    justify-content: end;
+}
+.XM-container .XM-center .XM-navbar .XM-left ul{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.XM-container .XM-center .XM-navbar .XM-left ul li{
+    list-style: none;
+}
+.XM-container .XM-center .XM-navbar .XM-left ul li a{
+    text-decoration: none;
+    color: white;
+    border-left: 1px solid #4D4D4D;
+    border-right: 1px solid #4D4D4D;
+   padding: 20px 31px;
+   font-weight: 400;
+font-size: 15px;
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+.XM-container .XM-center .XM-navbar .XM-left ul li a:hover{
+    background-color: #C7AA8B;
+    border-radius: 20px;
+    cursor: pointer;
+    color: black;
+}
+.XM-container .XM-center .XM-navbar .XM-left ul li .XM-icon1{
+  
+   background-color: black;
+   color: #C7AA8B;
+   font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 2px;
+text-transform: uppercase;
+}
+.XM-container .XM-firstpage{
+    background-image: url(./images/IMAGEXM-back.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.XM-container .XM-firstpage .XM-top h1{
+    font-weight: 400;
+    text-align: center;
+text-transform: uppercase;
+color: white;
+    font-size: 78px;
+}
+.XM-container .XM-firstpage hr{
+    width: 60px;
+    color: white;
+    background-color: white;
+    text-align: center;
+    height: 2px;
+    margin-left: 320px;
+    margin-top: 36px;
+}
+.XM-container .XM-firstpage .XM-down p{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.81);
+    margin-top: 23px;
+}
+.XM-container .XM-firstpage .XM-down button{
+    font-weight: 400;
+font-size: 16px;
+display: inline;
+display: flex;
+justify-content: center;
+text-align: center;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+margin-top: 49px;
+color: white;
+padding: 10px 17px;
+background: rgba(77, 77, 77, 0.2);
+border: 2px solid #FFFFFF;
+margin-left: 280px;
+}
+.XM-container .XM-firstpage .XM-down button:hover{
+    background-color: #C7AA8B;
+    border-radius: 20px;
+    cursor: pointer;
+    color: black;
+}
