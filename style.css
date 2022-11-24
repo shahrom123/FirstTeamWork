@@ -1,4 +1,45 @@
 
+
+.shahrom-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shahrom-center{
+    width: 80%;
+     
+}
+.shahrom-puctures1 h2{
+    font-weight: 100;
+    color: #4D4D4D; 
+}
+.shahrom-puctures1 p{
+    font-weight: 100;
+    color: #4D4D4D;
+    margin: 5% 0%;
+}
+.shahrom-puctures{
+    display: flex;
+    gap: 50px 100px;
+}
+.shahrom-puctures h1{
+   opacity: 0.6;
+   font-weight: 100;
+}
+.shahrom-puctures1 img{
+    width: 100%;
+}
+.shahrom-icons ul{
+    display: flex;
+    gap: 15px 15px;
+}
+.shahrom-icons ul li{
+   list-style: none;
+}
+.shahrom-icons ul li i:hover{
+    background-color:lightblue;
+=======
 .my-conteiner{
 
     width: 100%;
@@ -249,6 +290,7 @@ margin-left: 280px;
     border-radius: 20px;
     cursor: pointer;
     color: black;
+
 
 
 }
