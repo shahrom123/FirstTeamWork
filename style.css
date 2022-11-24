@@ -1,7 +1,139 @@
+
 *{
     margin: 0;
     padding: 0;
 }
+
+
+.md-top{
+    width: 100%;
+    background-color: #F7F7F7;;
+    height: 70vh;
+}
+.md-center{
+    width: 80%;
+    margin: auto;
+}
+.md-test{
+    text-align: center;
+}
+.md-test h1{
+    margin: auto;
+    width: 97px;
+    height: 20px;
+    padding-top: 79px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color:  #323232 36%;
+    
+   
+}
+.md-kat{
+    margin: auto;
+    border-bottom: 2px solid gray;
+    width: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.md-text{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text1{
+    width:361px;
+    height: 100px;
+    margin-top: 46px;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #4D4D4D;
+    
+}
+.text1 h4{
+    margin-top: 10px;
+}
+.md-footer{
+    width: 100%;
+    height: 25vh;
+    background-color: #323232;
+}
+.md-foot{
+    display: flex;
+    justify-content: space-between;
+}
+.stone{
+    width: 186px;
+    height: 20px;
+    margin: 68px 0px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color:  #858585;
+   
+}
+.but button{
+    border: 1px solid rgb(247, 234, 211);
+    margin-top: 70px;
+    border-radius: 5px;
+    padding: 10px 50px;
+    background-color:  rgba(77, 77, 77, 0.2);
+}
+.elk h4{
+    width: 194px;
+    height: 20px;
+    margin: 80px 0px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color:  #858585;
+}
+.but button:hover{
+    background-color: white;
+    cursor: pointer;
+    color: black;
+}
+
+.shahrom-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shahrom-center{
+    width: 80%;
+     
+}
+.shahrom-puctures1 h2{
+    font-weight: 100;
+    color: #4D4D4D; 
+}
+.shahrom-puctures1 p{
+    font-weight: 100;
+    color: #4D4D4D;
+    margin: 5% 0%;
+}
+.shahrom-puctures{
+    display: flex;
+    gap: 50px 100px;
+}
+.shahrom-puctures h1{
+   opacity: 0.6;
+   font-weight: 100;
+}
+.shahrom-puctures1 img{
+    width: 100%;
+}
+.shahrom-icons ul{
+    display: flex;
+    gap: 15px 15px;
+}
+.shahrom-icons ul li{
+   list-style: none;
+}
+.shahrom-icons ul li i:hover{
+    background-color:lightblue;}
+
 .my-conteiner{
 
     width: 100%;
@@ -252,6 +384,4 @@ margin-left: 280px;
     border-radius: 20px;
     cursor: pointer;
     color: black;
-
-
 }
