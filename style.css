@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 
 .XM-navbar-items{
     background-color: #323232;
@@ -155,5 +152,5 @@ margin-left: 280px;
     border-radius: 20px;
     cursor: pointer;
     color: black;
-    
+
 }
