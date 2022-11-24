@@ -1,5 +1,102 @@
 
+.my-conteiner{
 
+    width: 100%;
+
+    background-color: rgba(199, 170, 139, 1);
+
+    
+    padding: 40px;
+    display: flex;
+
+    justify-content: center;
+
+    margin: auto;
+
+}
+.my-centr{
+
+    width: 80%;
+
+    margin: auto;
+
+}
+.my-glavni{
+
+    display: flex;
+
+    justify-content: space-between;
+
+
+}
+.my-box{
+
+    border-top: solid 2px rgba(50, 50, 50, 0.13);;
+    width: 20%;
+text-align: center;
+}
+.RESEARCH{
+
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+
+text-align: center;
+
+font-weight: 400;
+
+font-size: 20px;
+
+
+color: #4D4D4D;
+}
+.my-images{
+
+margin-bottom: 50px;
+
+}
+.Lorem{
+
+    text-align: start;
+
+    color: #4D4D4D;
+}
+.my-image2{
+
+    width: 100%;
+    height: 40vh;
+    background-image: url(./images/IMAGE\ \(33\).png);
+background-size: cover;
+}
+.my-text    {
+
+    width: 842px;
+
+    height: 110px;
+
+    display: flex;
+
+text-align: center;
+
+padding-top: 100px;
+}
+.my-text h1{
+
+    text-align: start;
+    font-size: 47px;
+    font-weight: 400;
+    color: #C7AA8B;
+}
+
+.myhr{
+
+    margin-top: 50px;
+
+    width: 5%;
+
+    height: 2px;
+    background: #C7AA8B;
+=======
 .XM-navbar-items{
     background-color: #323232;
     width: 100%;
@@ -152,5 +249,6 @@ margin-left: 280px;
     border-radius: 20px;
     cursor: pointer;
     color: black;
+
 
 }
